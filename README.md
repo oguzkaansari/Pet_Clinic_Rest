@@ -5,7 +5,7 @@
  ## For Login
 
 | username | password | role |
-| ------------- |:-------------:|
+| ------------- |:-------------:|:-------------:|
 | admin@mail.com | 54321 | ROLE_ADMIN, ROLE_DOCTOR, ROLE_SECRETARY|
 | doctor@mail.com | 12345 | ROLE_DOCTOR |
 | secretary@mail.com | 12345 | ROLE_SECRETARY |
